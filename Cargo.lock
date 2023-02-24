@@ -2786,7 +2786,7 @@ dependencies = [
 
 [[package]]
 name = "sdu"
-version = "0.3.0"
+version = "0.4.0"
 dependencies = [
  "anyhow",
  "bytes",
@@ -2888,7 +2888,7 @@ dependencies = [
 
 [[package]]
 name = "shin"
-version = "0.3.0"
+version = "0.4.0"
 dependencies = [
  "anyhow",
  "anymap",
@@ -2936,7 +2936,7 @@ dependencies = [
 
 [[package]]
 name = "shin-audio"
-version = "0.3.0"
+version = "0.4.0"
 dependencies = [
  "anyhow",
  "kira",
@@ -2948,7 +2948,7 @@ dependencies = [
 
 [[package]]
 name = "shin-core"
-version = "0.3.0"
+version = "0.4.0"
 dependencies = [
  "anyhow",
  "async-trait",
@@ -2986,7 +2986,7 @@ dependencies = [
 
 [[package]]
 name = "shin-derive"
-version = "0.3.0"
+version = "0.4.0"
 dependencies = [
  "darling",
  "itertools",
@@ -2998,7 +2998,7 @@ dependencies = [
 
 [[package]]
 name = "shin-render"
-version = "0.3.0"
+version = "0.4.0"
 dependencies = [
  "anyhow",
  "bevy_utils",
@@ -3015,7 +3015,7 @@ dependencies = [
 
 [[package]]
 name = "shin-tasks"
-version = "0.3.0"
+version = "0.4.0"
 dependencies = [
  "async-channel",
  "async-executor",
@@ -3030,7 +3030,7 @@ dependencies = [
 
 [[package]]
 name = "shin-video"
-version = "0.3.0"
+version = "0.4.0"
 dependencies = [
  "anyhow",
  "async-process",
