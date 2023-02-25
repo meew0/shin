@@ -32,6 +32,8 @@ which = "4.4.0"
 async-process = "1.6.0"
 futures-lite = "1.12.0"
 num-integer = "0.1.45"
+ffmpeg-sys-next = "5.1.1"
+libc = "0.2.139"
 
 [dev-dependencies]
 winit = "0.28.1"
